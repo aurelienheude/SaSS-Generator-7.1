@@ -1,6 +1,9 @@
 # SaSS-Generator-7.1
 ![Static Badge](https://img.shields.io/badge/v1-green)
 ![Static Badge](https://img.shields.io/badge/sass-pink?style=flat&logo=sass)
+![GitHub watchers](https://img.shields.io/github/watchers/aurelienheude/SaSS-Generator-7.1)
+![GitHub Repo stars](https://img.shields.io/github/stars/aurelienheude/SaSS-Generator-7.1)
+![GitHub forks](https://img.shields.io/github/forks/aurelienheude/SaSS-Generator-7.1)
 
 :warning: *attention pour le moment le script ne fonctionne que pour windows ! O:*
 
