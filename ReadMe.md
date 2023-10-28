@@ -11,13 +11,12 @@ Marre de tout le temps devoir retaper tout ce code d'**architecture de base de S
 
 ## Installation
 
-Vous pouvez installer le zip qui contient le fichier bash via le terminal à l'endroit souhaité :
+Vous pouvez installer le package via le terminal à l'endroit souhaité avec une simple petite commande :
 
-```bash
-curl -o saSS-Generator.zip https://github.com/aurelienheude/SaSS-Generator-7.1/archive/refs/heads/main.zip
+```npm
+npm run init
 ```
 
-Ou tout simplement en cliquant juste ici !
 
 [![Static Badge](https://img.shields.io/badge/TELECHARGER-white?style=for-the-badge)](https://github.com/aurelienheude/SaSS-Generator-7.1/archive/refs/heads/main.zip)
 
@@ -56,8 +55,3 @@ Ou tout simplement en cliquant juste ici !
       - _index.scss
   - main.scss
 ```
-### Voici comment ça fonctionne
-
-https://github.com/aurelienheude/SaSS-Generator-7.1/assets/50832720/6bea4459-3059-426c-9982-f92f089eeeb3
-
-

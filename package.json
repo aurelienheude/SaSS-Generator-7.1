@@ -1,0 +1,14 @@
+{
+  "name": "sass-generator-7.1",
+  "version": "1.0.1",
+  "description": "generateur sass d'architecture 7.1 @use",
+  "scripts": {
+    "init": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aurelienheude/SaSS-Generator-7.1"
+  },
+  "author": "Aurélien Heude <aurelienheudepro@gmail.com> (https://github.com/aurelienheude)",
+  "license": "MIT"
+}
