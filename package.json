@@ -1,0 +1,10 @@
+{
+  "name": "sass-generator-7.1",
+  "version": "1.0.1",
+  "description": "generateur sass d'architecture 7.1 @use",
+  "scripts": {
+    "init": "node app.js"
+  },
+  "author": "Aurélien Heude",
+  "license": "Opensource"
+}
